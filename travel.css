@@ -1,0 +1,53 @@
+body {
+  background-color: tan;
+}
+
+/*Header Formatting*/
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  /*color: tan;*/
+  font-family: monospace;
+}
+
+#header {
+  position: relative;
+  top: -10px;
+  background-color: #556b2f;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+/*Header Finished*/
+
+/* Table formatting */
+table {
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color: skyblue;
+  margin-right: 10px;
+  float: right;
+}
+
+thead {
+  color: darkblue;
+}
+
+td img {
+  width: 150px;
+}
+/*Finish table formatting */
+
+/*Meat and Potatoes formatting*/
+#me img {
+  height: 300px;
+  /*display: inline-block;*/
+}
+
+/*p {
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+}*/
